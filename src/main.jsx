@@ -18,7 +18,7 @@ const appRouter = createBrowserRouter([
     element: <App />,
     children: [
       {
-        path: "/",
+        path: "/swiggy-clone",
         element: <Body />,
       },
       {
