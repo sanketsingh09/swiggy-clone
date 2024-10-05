@@ -19,7 +19,7 @@ const Header = () => {
         <div className="flex items-center">
           <ul className="flex justify-center items-center gap-8 text-base font-semibold tracking-tight">
             <li className="text-white">
-              <Link to="/">Home</Link>
+              <Link to="/swiggy-clone">Home</Link>
             </li>
             <li className="text-white">
               <Link to="/about"> About Us</Link>
