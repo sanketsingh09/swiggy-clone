@@ -12,7 +12,7 @@ const Header = () => {
     <div className="bg-custom-orange py-8 flex justify-center align-center">
       <div className="flex justify-between align-center w-4/5">
         <div className="logo-container">
-          <Link to="/">
+          <Link to="/swiggy-clone">
             <img className="logo" src={LOGO_URL} width={160} height={48} />
           </Link>
         </div>
